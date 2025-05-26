@@ -30,9 +30,8 @@
 
 ---
 
-## 📜 Smart Contract Summary
+## Contract address
 
-```solidity
-function logInteraction() external;
-function getAverageGas(address user) external view returns (uint256);
-function resetUser(address user) external onlyOwner;
+0x86e81ea06E8B0C437ECeb53519d37f6Cec7351d2
+
+![image](https://github.com/user-attachments/assets/1043f33b-ccfa-43ec-a2b9-7a666182cfb5)
