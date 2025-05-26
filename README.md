@@ -30,7 +30,7 @@
 
 ---
 
-## Contract address
+## Contract Address
 
 0x86e81ea06E8B0C437ECeb53519d37f6Cec7351d2
 
